@@ -1,2 +1,2 @@
 # Public
-Repo to share public information
+Repo to share public information. All information here is shareable
